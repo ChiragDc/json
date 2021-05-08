@@ -1,25 +1,26 @@
 [{
 		"id": 1,
 		"fname": "John",
-		"lname":"Smith",
-		"email":"JS@mail.com",
-		"image": "",
-		
+		"lname": "Smith",
+		"email": "JS@mail.com",
+		"image": "https://i.imgur.com/tdi3NGa.png"
+
 	},
 	{
-		
+
 		"id": 2,
 		"fname": "John",
-		"lname":"Doe",
-		"email":"JD@mail.com",
-		"image": "",
+		"lname": "Doe",
+		"email": "JD@mail.com",
+		"image": "https://i.imgur.com/tdi3NGa.png"
 	},
 	{
-		
+
 		"id": 3,
 		"fname": "Jane",
-		"lname":"Doe",
-		"email":"JA@mail.com",
-		"image": "",
+		"lname": "Doe",
+		"email": "JA@mail.com",
+		"image": "https://i.imgur.com/tdi3NGa.png"
 
-}]
+	}
+]
